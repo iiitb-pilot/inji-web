@@ -14,7 +14,7 @@ import {
     LanguageObject
 } from "../types/data";
 
-const resources = 'en';
+const resources = {en};
 
 export const LanguagesSupported: LanguageObject[] = [
     {label: "English", value: 'en'}
